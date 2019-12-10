@@ -1,0 +1,16 @@
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\bin\Debug\PowerGrade.exe.config
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\bin\Debug\PowerGrade.exe
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\bin\Debug\PowerGrade.pdb
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\bin\Debug\PowerGrade.xml
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.vbprojResolveAssemblyReference.cache
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.PGForm1.resources
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.Resources.resources
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.vbproj.GenerateResource.Cache
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.vbproj.CoreCompileInputs.cache
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.exe
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.xml
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.pdb
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.PGForm2.resources
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.PGForm3.resources
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.PGForm4.resources
+C:\Users\Philip Cope\source\repos\PowerGrade\PowerGrade\obj\Debug\PowerGrade.vbproj.ResolveComReference.cache
